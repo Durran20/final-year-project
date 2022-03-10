@@ -1,0 +1,9 @@
+#trail {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  inset: 0;
+  background: url('../assets/Images/pcce2.jpeg') center/cover no-repeat fixed;
+  background-size: cover;
+}
